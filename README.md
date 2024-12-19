@@ -1,2 +1,3 @@
-# my-IBS-assignment-1.0
-my-IBS-assignment-1.0
+# My First IBS Project
+This is a sample project to demonstrate GitHub.
+
